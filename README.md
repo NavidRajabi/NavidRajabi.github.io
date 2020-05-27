@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Personal Website V2 🚀🔥
 
-You can use the [editor on GitHub](https://github.com/NavidRajabi/NavidRajabi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! Thanks for checking out the repo for my latest portfolio website. This website isn't just my new portfolio, but also a personal project in and of itself. I think I've grown quite a bit as a developer & designer in the past year, so I wanted to create something to showcase some of what I've learned and done.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting started
+- `npm install gulp-cli -g`
+- `npm install`
+- `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
+- `gulp serve` to start a dev server
+- `gulp build` for prod
 
-### Markdown
+## What I used
+- [Sublime Text 3](https://www.sublimetext.com/3) my ride-or-die
+- [Github Pages](https://pages.github.com/) for easy push-to-deploy hosting
+- [Jekyll](https://jekyllrb.com/) for a static site generator
+- [Sass](http://sass-lang.com/) for less time-consuming and more modular CSS
+- [Bourbon](http://bourbon.io/) for sass mixins
+- [Gulp](http://gulpjs.com/) for an automated and enhanced workflow
+- [Flaticon](http://www.flaticon.com/) for images
+- [Unsplash](https://unsplash.com/) for stock photos
+- [Skrollr.js](https://github.com/Prinzhorn/skrollr) for parallax effects
+- [Formspree](https://formspree.io/) for a simple, sans-PHP contact form
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NavidRajabi/NavidRajabi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Let me know what you think!
