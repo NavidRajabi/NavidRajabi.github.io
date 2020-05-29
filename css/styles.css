@@ -533,7 +533,7 @@ footer {
 }
 
 .project {
-    position: absolute;
+    position: relative;
     max-width: 1000px;
     margin: 0 auto 30px auto;
     overflow: hidden;
