@@ -787,10 +787,12 @@ footer {
         font-size: 1.75em
     }
     #about {
-        text-align: center
+        text-align: center;
+        font-family: 'Lato', sans-serif;
     }
     #about p {
-        text-align: left
+        text-align: left;
+        font-family: 'Lato', sans-serif;
     }
 }
 
