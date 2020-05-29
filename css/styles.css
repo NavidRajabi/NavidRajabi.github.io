@@ -546,7 +546,7 @@ footer {
 }
 
 .project-info {
-    position: relative;
+    position: absolute;
     top: 50%;
     transform: translateY(-50%);
     margin-left: 300px;
