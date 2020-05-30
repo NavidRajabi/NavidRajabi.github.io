@@ -120,7 +120,7 @@ header.sticky {
 #menu.active {
     display: block;
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 #mobile-menu-open {
@@ -136,7 +136,7 @@ header.sticky {
     border-radius: 4px;
     background: #fff;
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 #mobile-menu-close {
@@ -150,7 +150,7 @@ header.sticky {
     cursor: pointer;
     color: #3498db;
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 #mobile-menu-close span {
@@ -381,7 +381,7 @@ footer {
 #about p {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: #74808a;
     margin: 0
 }
