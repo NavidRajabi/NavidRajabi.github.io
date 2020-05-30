@@ -372,6 +372,8 @@ footer {
 
 #about p {
     font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 1.0em;
     color: #74808a;
     margin: 0
 }
